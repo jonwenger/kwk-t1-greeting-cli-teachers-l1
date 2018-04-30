@@ -5,3 +5,4 @@ name = gets.strip
 greetings(name)
 
 # code your CLI here!
+lib
